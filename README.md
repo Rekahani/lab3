@@ -1,12 +1,20 @@
-program python latihan perulangan
+# Nama	: Reka Hani Latifah Nurhasanah
+# NIM	: 312010343
+# Kelas	: TI.20.A2
+# Matkul: Bahasa Pemrograman
 
-Perulangan dalam bahasa pemrograman berfungsi melakukan sesuatu secara berulang-ulang. terdapat dua jenis perulangan di python, yaitu for dan while
+# program python latihan perulangan
 
-for disebut counted loop (perulangan yang terhitung) while di sebut uncounted loop (perulangan yang tak terhitung)
+Perulangan dalam bahasa pemrograman berfungsi melakukan sesuatu secara berulang-ulang.
+terdapat dua jenis perulangan di python, yaitu `for` dan `while`
 
-for biasanya di gunakan untuk mengulangi code yang sudah diketahui banyak perulangan while untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
+`for` disebut counted loop (perulangan yang terhitung) 
+`while` di sebut uncounted loop (perulangan yang tak terhitung)
 
-Program latihan1
+`for`biasanya di gunakan untuk mengulangi code yang sudah diketahui banyak perulangan 
+`while` untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
+
+### Program latihan1
 
 ![1.png](/gambar/1.png)
 
@@ -28,7 +36,7 @@ Penjelasan
 
 ![001.png](/gambar/001.png)
 
-Program latihan2
+### Program latihan2
 
 ![2.png](/gambar/2.png)
 

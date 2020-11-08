@@ -1,7 +1,7 @@
-# Nama	: Reka Hani Latifah Nurhasanah
-# NIM	: 312010343
-# Kelas	: TI.20.A2
-# Matkul: Bahasa Pemrograman
+### Nama	: Reka Hani Latifah Nurhasanah
+### NIM		: 312010343
+### Kelas	: TI.20.A2
+### Matkul	: Bahasa Pemrograman
 
 # program python latihan perulangan
 
